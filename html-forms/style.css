@@ -5,3 +5,15 @@ body {
 input {
   margin: 5px;
 }
+
+label{
+  display: flex;
+ 
+}
+
+
+
+button{
+  margin: auto;
+}
+
